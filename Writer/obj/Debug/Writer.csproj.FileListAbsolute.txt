@@ -1,0 +1,9 @@
+C:\Users\Ana Maria\source\repos\Writer\Writer\bin\Debug\Writer.exe.config
+C:\Users\Ana Maria\source\repos\Writer\Writer\bin\Debug\Writer.exe
+C:\Users\Ana Maria\source\repos\Writer\Writer\bin\Debug\Writer.pdb
+C:\Users\Ana Maria\source\repos\Writer\Writer\obj\Debug\Writer.csprojAssemblyReference.cache
+C:\Users\Ana Maria\source\repos\Writer\Writer\obj\Debug\Writer.Form1.resources
+C:\Users\Ana Maria\source\repos\Writer\Writer\obj\Debug\Writer.Properties.Resources.resources
+C:\Users\Ana Maria\source\repos\Writer\Writer\obj\Debug\Writer.csproj.GenerateResource.cache
+C:\Users\Ana Maria\source\repos\Writer\Writer\obj\Debug\Writer.exe
+C:\Users\Ana Maria\source\repos\Writer\Writer\obj\Debug\Writer.pdb
